@@ -2,18 +2,16 @@ AFTER EXPLORING VISUALGO, Here are a few data structures and sorting algorithms 
 
 # Data Structures
 
-    1. B-Trees
-        Why I’m Not Familiar: I’ve heard of B-Trees being used in databases for efficient data retrieval, but I haven’t actually dived into how they work.
+    1. Tries (Prefix Trees)
+        -   A tree-like data structure used to store a dynamic set of strings, where common prefixes are only stored once. Tries enable efficient retrieval of keys in a dataset of strings and are often used in applications like autocomplete.
+        -   Why I’m Not Familiar: I know tries are great for searching strings quickly, especially for things like autocomplete features. However, I haven’t had time yet to implement one.
 
-    2. Tries (Prefix Trees)
-        Why I’m Not Familiar: I know tries are great for searching strings quickly, especially for things like autocomplete features. However, I haven’t had time yet to implement one.
+    2.  Binary Indexed Tree (BIT)
+        -   Binary Indexed Tree (BIT), is a data structure that provides efficient methods for cumulative frequency tables and range queries. It allows you to perform both updates and prefix sum queries in logarithmic time.
+        -   Why I’m Not Familiar: I have not encountered them frequently in my coursework or practical applications. My focus so far has been on more commonly used data structures and algorithms, such as arrays, linked lists, and basic sorting algorithms.
+
+
 
 # Sorting Algorithms
 
-    1. Heap Sort
-        Why I’m Not Familiar: I’ve read about heaps, but I’ve never implemented heap sort myself.
-
-    2. Tim Sort
-    Why I’m Not Familiar: I’ve learned that Tim Sort is used in Python and Java because of its efficiency, but I haven’t dug into how it works in detail. Understanding the mechanics behind its hybrid approach would be really helpful for my programming toolkit.
-
-Overall, exploring Visualgo helped to understand some new concepts, and I’m looking forward to mastering these data structures and algorithms in the future!
+    "The content from Visualgo, along with the Bootstrap course, provided a solid understanding of sorting algorithms."
